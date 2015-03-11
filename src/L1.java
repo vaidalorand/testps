@@ -23,8 +23,9 @@ public class L1 {
         Laptop l3=new Laptop("l3",2100,"i7",15); 
 
         Mobile m1=new Mobile("m1",1400,"Android",16);
-        Mobile m2=new Mobile("m1",2300,"IOS",64);
-        Mobile m3=new Mobile("m1",1000,"Sybian",8);
+        Mobile m2=new Mobile("m2",2300,"IOS",64);
+        Mobile m3=new Mobile("m3",1000,"Sybian",8);
+	  Mobile m4=new Mobile("m4",1000,"Windows",16);
         
         
         c.add(l1,2);
